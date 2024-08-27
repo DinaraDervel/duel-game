@@ -6,7 +6,7 @@ function App() {
     <>
       <div className="container">
         <h1>Duel Game</h1>
-        <GameField />
+        <GameField width={700} height={500} />
       </div>
     </>
   );
